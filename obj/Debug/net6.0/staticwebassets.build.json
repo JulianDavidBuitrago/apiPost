@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bvM/rQDSfQLBGR+XA9REtaGXJaNNA7nGT8CLyTBD5Kw=",
+  "Source": "apiPost",
+  "BasePath": "_content/apiPost",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
